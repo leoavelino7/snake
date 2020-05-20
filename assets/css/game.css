@@ -1,0 +1,29 @@
+body {
+	background-color: #000000;
+	font-family: sans-serif;
+	color: #fff;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 43px;
+}
+
+.title {
+	font-size: 3em;
+	letter-spacing: 3px;
+	margin-bottom: 0;
+}
+
+.description {
+	background: #eee;
+	padding: 5px 36px;
+	border-bottom-right-radius: 24px;
+	color: black;
+	margin-bottom: 50px;
+}
+
+.gameCanvas {
+	border-radius: 10px;
+	box-shadow: 4px 6px 8px 1px #ffffff40;
+}
